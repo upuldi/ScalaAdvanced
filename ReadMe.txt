@@ -1,0 +1,1 @@
+This project contains some examples of using Implicit and Case Classes in Scala
