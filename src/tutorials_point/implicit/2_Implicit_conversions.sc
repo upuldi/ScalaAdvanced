@@ -10,3 +10,5 @@ def anotherMethod(name:String) = f"another method with name : ${name}"
 //Here the fist method is used convert the int into the string since the implicit method
 // is in the scope. The implicit method takes a int and returns a String..
 anotherMethod(100)
+
+
